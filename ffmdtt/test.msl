@@ -3,7 +3,7 @@ def f32 add_mul(f32 arg1; u32 arg2)
     u32 c = arg1 * arg2 / (arg1 + arg2);
     if(c) {
         u32 h = c / c;
-        if(h) {
+        if(h / c) {
             return h;
         }
     }
