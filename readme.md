@@ -1,3 +1,7 @@
+Toy lexer, parser and compilator to pseudo-assembly I wrote when learning about compilers.
+
+
+
 ```
 def f32 add_mul(f32 arg1; u32 arg2)
 {
