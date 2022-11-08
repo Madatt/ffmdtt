@@ -1,4 +1,4 @@
-Toy lexer, parser and compilator to pseudo-assembly I wrote when learning about compilers.
+Toy lexer, parser and compiler to pseudo-assembly I wrote when learning about compilers.
 
 
 
